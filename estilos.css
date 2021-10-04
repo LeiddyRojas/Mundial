@@ -1,0 +1,14 @@
+footer {
+	width: 100%;
+	height: 40px;
+	background-color: #E5E9EB;
+	font-size: 18px
+}
+
+.navbar-header img{
+	height: 30px;
+}
+
+picture img{
+	width: 100%;
+}
